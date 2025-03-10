@@ -9,7 +9,7 @@ include 'header.php';
     <!-- Seção Hero -->
     <section class="hero">
         <div class="container">
-            <h1>Bem-vindo ao Nosso Site</h1>
+            <h1>Bem-vindo aos Nossos Sites</h1>
             <p>Soluções inovadoras para o seu negócio</p>
             <a href="contato.php" class="btn">Fale Conosco</a>
         </div>
