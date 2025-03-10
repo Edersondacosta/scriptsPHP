@@ -1,0 +1,71 @@
+/* Estilos para dispositivos móveis */
+@media (max-width: 768px) {
+    .menu {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        background: #444;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        z-index: 1000;
+    }
+    
+    .menu.active {
+        display: flex;
+    }
+    
+    .menu li {
+        margin: 10px 0;
+        text-align: center;
+        width: 100%;
+    }
+    
+    .menu-toggle {
+        display: flex;
+    }
+}
+
+/* Responsividade do Rodapé */
+@media (max-width: 768px) {
+    .footer-content {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .footer-section {
+        flex: 1 1 100%;
+        margin: 15px 0;
+    }
+    
+    .footer-bottom {
+        flex-direction: column;
+    }
+    
+    .back-to-top {
+        margin: 10px 0;
+    }
+}
+
+/* Responsividade para o conteúdo */
+@media (max-width: 768px) {
+    .hero {
+        padding: 60px 20px;
+    }
+    
+    .hero h1 {
+        font-size: 2rem;
+    }
+    
+    .features-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .about-content {
+        flex-direction: column;
+    }
+    
+    .testimonial-slider {
+        grid-template-columns: 1fr;
+    }
+}
