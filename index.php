@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Ederson roberto da Costa o Site';
+$pageTitle = 'Ederson roberto da Costa o Site responsivo';
 $currentPage = 'home';
 include 'header.php';
 ?>
