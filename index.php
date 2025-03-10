@@ -10,7 +10,7 @@ include 'header.php';
     <section class="hero">
         <div class="container">
             <h1>Bem-vindo ao Nosso Site</h1>
-            <p>Soluções inovadoras para o seu negócio</p>
+            <p>Soluções inovadoras para os seus negócios</p>
             <a href="contato.php" class="btn">Fale Conosco</a>
         </div>
     </section>
