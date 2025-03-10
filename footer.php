@@ -16,7 +16,7 @@ $email = 'contato@empresa.com';
                 <li><a href="index.php">Início</a></li>
                 <li><a href="sobre.php">Sobre Nós</a></li>
                 <li><a href="servicos.php">Serviços</a></li>
-                <li><a href="contato.php">Contato</a></li>
+                <li><a href="contato.php">Contatos</a></li>
                 <li><a href="politica.php">Política de Privacidade</a></li>
             </ul>
         </div>
