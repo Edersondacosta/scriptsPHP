@@ -45,7 +45,7 @@
 
 /* Estilo para item ativo */
 .menu .active {
-    background: #777;
+    background: #5d5d5d;
     border-radius: 4px;
 }
 
