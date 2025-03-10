@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Ederson';
+$pageTitle = 'Ederson Costa';
 $currentPage = 'home';
 include 'header.php';
 ?>
