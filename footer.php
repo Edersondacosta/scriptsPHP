@@ -4,7 +4,7 @@ $currentYear = date('Y');
 $companyName = 'Nome da Empresa';
 $address = 'Av. Exemplo, 123 - Cidade/UF';
 $phone = '(11) 98765-4321';
-$email = 'contato@empresa.com';
+$email = 'contato@empresa.com.br';
 ?>
 
 <footer class="footer">
