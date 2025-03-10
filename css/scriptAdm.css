@@ -1,0 +1,9 @@
+/* Estilos básicos para o adm */
+.header {
+    background: #333;
+    color: #d0d0d0;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
